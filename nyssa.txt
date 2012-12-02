@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Hello World.
+I can be your hero.
 GOODBYE!!!!!!
-=======
-Hello World. I can be your hero.
->>>>>>> a4edd80a4a9112dd15149866019fd02f5e22841d
+
