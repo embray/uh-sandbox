@@ -1,4 +1,9 @@
 My name is Erik Bray. I am a software engineer at the Space Telescope Science Institute.
 Hello.  Cool outfit. Red pants are awesome!
+<<<<<<< HEAD
+
+I'm adding to the project :-)
+=======
 I have three cats.
 Mark is a hero!
+>>>>>>> 4014f6a3c93f731c8d13b7406ef3eba654be2b5f
