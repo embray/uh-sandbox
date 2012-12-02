@@ -1,2 +1,6 @@
 I ate pizza last night and now my tummy hurts
+<<<<<<< HEAD
 Jamie, where are the gourmet snacks?
+=======
+Take a tums
+>>>>>>> 8eb4e36616aa4579de17c3473a304a586db99080
